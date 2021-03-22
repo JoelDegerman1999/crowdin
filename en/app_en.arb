@@ -1,17 +1,17 @@
 {
-    "home": "Hem",
+    "home": "Home",
     "@home": {
         "description": ""
     },
-    "time": "Tid",
+    "time": "Time",
     "@time": {
         "description": ""
     },
-    "receipt": "Kvitto",
+    "receipt": "Receipt",
     "@receipt": {
         "description": ""
     },
-    "menu": "Meny",
+    "menu": "Menu",
     "@menu": {
         "description": ""
     },
