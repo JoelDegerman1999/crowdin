@@ -1,0 +1,3 @@
+files:
+  - source: '**/app_sv.arb'
+    translation: '%original_file_name%'
