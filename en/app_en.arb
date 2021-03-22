@@ -1,0 +1,798 @@
+{
+    "home": "Hem",
+    "@home": {
+        "description": ""
+    },
+    "time": "Tid",
+    "@time": {
+        "description": ""
+    },
+    "receipt": "Kvitto",
+    "@receipt": {
+        "description": ""
+    },
+    "menu": "Meny",
+    "@menu": {
+        "description": ""
+    },
+    "addTask": "Skapa uppgift",
+    "@addTask": {
+        "description": ""
+    },
+    "vacayRequest": "Ledighetsansökan",
+    "@vacayRequest": {
+        "description": ""
+    },
+    "sickLeave": "Sjukanmälan",
+    "@sickLeave": {
+        "description": ""
+    },
+    "cancelSickLeave": "Friskanmälan",
+    "@cancelSickLeave": {
+        "description": ""
+    },
+    "myPlanning": "Min planering",
+    "@myPlanning": {
+        "description": ""
+    },
+    "myTodos": "Mina uppgifter",
+    "@myTodos": {
+        "description": ""
+    },
+    "myFavoriteProjects": "Mina favoritprojekt",
+    "@myFavoriteProjects": {
+        "description": ""
+    },
+    "cancel": "Avbryt",
+    "@cancel": {
+        "description": ""
+    },
+    "name": "Namn",
+    "@name": {
+        "description": ""
+    },
+    "noFavoritesProjectsAdded": "Du har inga favoritprojekt",
+    "@noFavoritesProjectsAdded": {
+        "description": ""
+    },
+    "copyLast": "Kopiera föregående",
+    "@copyLast": {
+        "description": ""
+    },
+    "startClock": "Start klockan",
+    "@startClock": {
+        "description": ""
+    },
+    "stopClock": "Stoppa klockan",
+    "@stopClock": {
+        "description": ""
+    },
+    "registerTime": "Registrera tid",
+    "@registerTime": {
+        "description": ""
+    },
+    "workPhone": "Telefon arbete",
+    "@workPhone": {
+        "description": ""
+    },
+    "phone": "Telefon",
+    "@phone": {
+        "description": ""
+    },
+    "address": "Adress",
+    "@address": {
+        "description": ""
+    },
+    "zipCode": "Postnummer",
+    "@zipCode": {
+        "description": ""
+    },
+    "city": "Ort",
+    "@city": {
+        "description": ""
+    },
+    "relativeName": "Anhörig",
+    "@relativeName": {
+        "description": ""
+    },
+    "relativeRelation": "Relation",
+    "@relativeRelation": {
+        "description": ""
+    },
+    "relativePhone": "Telefon anhörig",
+    "@relativePhone": {
+        "description": ""
+    },
+    "saveAndCloseProfile": "Spara och stäng profil",
+    "@saveAndCloseProfile": {
+        "description": ""
+    },
+    "saveAndClose": "Spara och stäng",
+    "@saveAndClose": {
+        "description": ""
+    },
+    "close": "Stäng",
+    "@close": {
+        "description": ""
+    },
+    "save": "Spara",
+    "@save": {
+        "description": ""
+    },
+    "settings": "Inställningar",
+    "@settings": {
+        "description": ""
+    },
+    "switchCompany": "Växla företag",
+    "@switchCompany": {
+        "description": ""
+    },
+    "logout": "Logga ut",
+    "@logout": {
+        "description": ""
+    },
+    "showTasks": "Visa datumsatta uppgifter",
+    "@showTasks": {
+        "description": ""
+    },
+    "showTasksWithNoDate": "Visa ej datumsatta uppgifter",
+    "@showTasksWithNoDate": {
+        "description": ""
+    },
+    "showTasksCompleted": "Visa slutförda uppgifter",
+    "@showTasksCompleted": {
+        "description": ""
+    },
+    "showTasksNoDateCompleted": "Visa slutförda uppgifter ej datumsatta",
+    "@showTasksNoDateCompleted": {
+        "description": ""
+    },
+    "myTodosWithoutDate": "Uppgifter utan datum",
+    "@myTodosWithoutDate": {
+        "description": ""
+    },
+    "forgotPassword": "Glömt ditt lösenord?",
+    "@forgotPassword": {
+        "description": ""
+    },
+    "rememberSsn": "Kom ihåg personnummer",
+    "@rememberSsn": {
+        "description": ""
+    },
+    "passwordReset": "Återställ lösenord",
+    "@passwordReset": {
+        "description": ""
+    },
+    "addEmail": "Lägg till epost",
+    "@addEmail": {
+        "description": ""
+    },
+    "invalidSsn": "Ogiltigt personnummer",
+    "@invalidSsn": {
+        "description": ""
+    },
+    "login": "Logga in",
+    "@login": {
+        "description": ""
+    },
+    "backToLogin": "Gå tillbaka",
+    "@backToLogin": {
+        "description": ""
+    },
+    "email": "E-post",
+    "@email": {
+        "description": ""
+    },
+    "password": "Lösenord",
+    "@password": {
+        "description": ""
+    },
+    "ssnHint": "Personnummer (YYMMDDXXXX)",
+    "@ssnHint": {
+        "description": ""
+    },
+    "bankidLogin": "Logga in med Bank-Id",
+    "@bankidLogin": {
+        "description": ""
+    },
+    "bankidSsnLogin": "Logga in med",
+    "@bankidSsnLogin": {
+        "description": ""
+    },
+    "loginFailed": "Inloggning misslyckades",
+    "@loginFailed": {
+        "description": ""
+    },
+    "today": "Idag",
+    "@today": {
+        "description": ""
+    },
+    "tomorrow": "Imorgon",
+    "@tomorrow": {
+        "description": ""
+    },
+    "inAWeek": "Nästa vecka",
+    "@inAWeek": {
+        "description": ""
+    },
+    "pickData": "Välj datum",
+    "@pickData": {
+        "description": ""
+    },
+    "expires": "Förfaller",
+    "@expires": {
+        "description": ""
+    },
+    "retry": "Sidladdning misslyckades - Försök igen",
+    "@retry": {
+        "description": ""
+    },
+    "networkDown": "Nätverksuppkoppling saknas",
+    "@networkDown": {
+        "description": ""
+    },
+    "initiate": "Startar inloggning",
+    "@initiate": {
+        "description": ""
+    },
+    "tryBlikk": "Vill du prova Blikk? ",
+    "@tryBlikk": {
+        "description": ""
+    },
+    "tryVisma": "Vil du prova Visma Tid? ",
+    "@tryVisma": {
+        "description": ""
+    },
+    "createTestAccount": "Skapa ett testkonto",
+    "@createTestAccount": {
+        "description": ""
+    },
+    "emailPassword": "E-post och lösenord",
+    "@emailPassword": {
+        "description": ""
+    },
+    "projectTimerStarted": "Instämplad på projekt:",
+    "@projectTimerStarted": {
+        "description": ""
+    },
+    "projectTimerFinished": "Utheckad",
+    "@projectTimerFinished": {
+        "description": ""
+    },
+    "checkingIn": "Startar klocka",
+    "@checkingIn": {
+        "description": ""
+    },
+    "checkingOut": "Stoppar klocka",
+    "@checkingOut": {
+        "description": ""
+    },
+    "checkoutMultiple": "Utstämplingen resulterade i flera tidregistreringar vilket gör att du manuellt får redigera dessa under menyn Tid",
+    "@checkoutMultiple": {
+        "description": ""
+    },
+    "pickImage": "Välj bild",
+    "@pickImage": {
+        "description": ""
+    },
+    "pickFile": "Välj fil",
+    "@pickFile": {
+        "description": ""
+    },
+    "camera": "Använd kamera",
+    "@camera": {
+        "description": ""
+    },
+    "gallery": "Använd gallery",
+    "@gallery": {
+        "description": ""
+    },
+    "mustSelectEngagement": "Du måste välja ett företag",
+    "@mustSelectEngagement": {
+        "description": ""
+    },
+    "downloadStarted": "Nedladdning startad.",
+    "@downloadStarted": {
+        "description": ""
+    },
+    "downloadCompleted": "Nedladdning slutförd.",
+    "@downloadCompleted": {
+        "description": ""
+    },
+    "downloadError": "Nedladdning misslyckades.",
+    "@downloadError": {
+        "description": ""
+    },
+    "downloadShow": "Visa",
+    "@downloadShow": {
+        "description": ""
+    },
+    "downloadMissingPermissionBlikk": "Du måste godkänna att Blikk får spara filer på din telefon.",
+    "@downloadMissingPermissionBlikk": {
+        "description": ""
+    },
+    "downloadMissingPermissionVisma": "Du måste godkänna att Visma Tid får spara filer på din telefon.",
+    "@downloadMissingPermissionVisma": {
+        "description": ""
+    },
+    "companySwitchErrorMessage": "Det gick inte att byta till det valda företaget!",
+    "@companySwitchErrorMessage": {
+        "description": ""
+    },
+    "informUserWithNoActiveAccount": "Ett aktivt konto saknas, det kan bero på att kontot är avslutat eller att den kostnadsfria utvärderingsperioden är över. Om du är administratör och kontot fortfarande existerar kan du aktivera det själv genom att logga in (via dator) på ",
+    "@informUserWithNoActiveAccount": {
+        "description": ""
+    },
+    "notFound": "Sidan hittades inte",
+    "@notFound": {
+        "description": ""
+    },
+    "chooseNewPassword": "Välj nytt lösenord",
+    "@chooseNewPassword": {
+        "description": ""
+    },
+    "newPassword": "Nytt lösenord",
+    "@newPassword": {
+        "description": ""
+    },
+    "confirmNewPassword": "Bekräfta nytt lösenord",
+    "@confirmNewPassword": {
+        "description": ""
+    },
+    "confirmPassword": "Bekräfta lösenord",
+    "@confirmPassword": {
+        "description": ""
+    },
+    "passwordRequirements": "Lösenordet måste innehålla",
+    "@passwordRequirements": {
+        "description": ""
+    },
+    "passwordRequiredLength": "Minst 8 tecken",
+    "@passwordRequiredLength": {
+        "description": ""
+    },
+    "passwordRequiredUppercase": "Minst en versal (stor bokstav)",
+    "@passwordRequiredUppercase": {
+        "description": ""
+    },
+    "passwordRequiredLowercase": "Minst en gemen (liten bokstav)",
+    "@passwordRequiredLowercase": {
+        "description": ""
+    },
+    "passwordRequiredNumber": "Minst en siffra",
+    "@passwordRequiredNumber": {
+        "description": ""
+    },
+    "passwordRequiredEquals": "Lösenord matchar",
+    "@passwordRequiredEquals": {
+        "description": ""
+    },
+    "genericNetworkError": "Det gick inte att läsa in data. Vänligen försök igen.",
+    "@genericNetworkError": {
+        "description": ""
+    },
+    "passwordResetSuccess": "Ditt nya lösenord är sparat.",
+    "@passwordResetSuccess": {
+        "description": ""
+    },
+    "gdprConcent": "Du måste godkänna villkoren för",
+    "@gdprConcent": {
+        "description": ""
+    },
+    "termsOfUse": "Tjänstevillkor",
+    "@termsOfUse": {
+        "description": ""
+    },
+    "privacyPolicy": "Integritetspolicy",
+    "@privacyPolicy": {
+        "description": ""
+    },
+    "commercialTerm": "Kommersiella villkor",
+    "@commercialTerm": {
+        "description": ""
+    },
+    "iAgree": "Jag godkänner",
+    "@iAgree": {
+        "description": ""
+    },
+    "termsBlikk": "Du måste godkänna villkoren för Blikk.",
+    "@termsBlikk": {
+        "description": ""
+    },
+    "termsVimsa": "Du måste godkänna villkoren för Visma Tid.",
+    "@termsVimsa": {
+        "description": ""
+    },
+    "gdprDescriptionBlikk": "Du har ingen e-post angiven. För att vi ska kunna ge dig så bra service som möjligt och för att kunna använda Blikk måste du ange din e-postadress.",
+    "@gdprDescriptionBlikk": {
+        "description": ""
+    },
+    "gdprDescriptionVisma": "Du har ingen e-post angiven. För att vi ska kunna ge dig så bra service som möjligt och för att kunna använda Visma Tid måste du ange din e-postadress.",
+    "@gdprDescriptionVisma": {
+        "description": ""
+    },
+    "taskAdded": "Uppgiften har lagts till utan förfallodatum",
+    "@taskAdded": {
+        "description": ""
+    },
+    "taskAddedExpiry": "Uppgiften har lagts till med förfallodatum",
+    "@taskAddedExpiry": {
+        "description": ""
+    },
+    "exitApp": "Vill du avsluta applikationen?",
+    "@exitApp": {
+        "description": ""
+    },
+    "yes": "Ja",
+    "@yes": {
+        "description": ""
+    },
+    "no": "Nej",
+    "@no": {
+        "description": ""
+    },
+    "workedHours": "Arbetade timmar",
+    "@workedHours": {
+        "description": ""
+    },
+    "deleteTimereport": "Radera tidrapport",
+    "@deleteTimereport": {
+        "description": ""
+    },
+    "date": "Datum",
+    "@date": {
+        "description": ""
+    },
+    "timeRegistration": "Tidregistrering",
+    "@timeRegistration": {
+        "description": ""
+    },
+    "newTimereport": "Ny tidsregistrering",
+    "@newTimereport": {
+        "description": ""
+    },
+    "editTimereport": "Redigera tidregistrering",
+    "@editTimereport": {
+        "description": ""
+    },
+    "lockDay": "Lås dag",
+    "@lockDay": {
+        "description": ""
+    },
+    "unlockDay": "Lås upp dag",
+    "@unlockDay": {
+        "description": ""
+    },
+    "total": "Totalt",
+    "@total": {
+        "description": ""
+    },
+    "workedHoursShort": "Arb. tid",
+    "@workedHoursShort": {
+        "description": ""
+    },
+    "reportedHours": "Rapp. tid",
+    "@reportedHours": {
+        "description": ""
+    },
+    "billableHours": "Fakt. tid",
+    "@billableHours": {
+        "description": ""
+    },
+    "toFrom": "Från - Till",
+    "@toFrom": {
+        "description": ""
+    },
+    "overtime": "Övertid",
+    "@overtime": {
+        "description": ""
+    },
+    "activity": "Aktivitet",
+    "@activity": {
+        "description": ""
+    },
+    "timeArticle": "Tidsartikel",
+    "@timeArticle": {
+        "description": ""
+    },
+    "timeCode": "Tidkod",
+    "@timeCode": {
+        "description": ""
+    },
+    "task": "Uppgift",
+    "@task": {
+        "description": ""
+    },
+    "selectActivity": "Välj aktivitet",
+    "@selectActivity": {
+        "description": ""
+    },
+    "selectTimeArticle": "Välj tidsartikel",
+    "@selectTimeArticle": {
+        "description": ""
+    },
+    "selectTimeCode": "Välj tidkod",
+    "@selectTimeCode": {
+        "description": ""
+    },
+    "selectTask": "Välj uppgift",
+    "@selectTask": {
+        "description": ""
+    },
+    "timerFinished": "Timer avslutad",
+    "@timerFinished": {
+        "description": ""
+    },
+    "clockTime": "Klockslag",
+    "@clockTime": {
+        "description": ""
+    },
+    "timeFrom": "Från",
+    "@timeFrom": {
+        "description": ""
+    },
+    "timeTo": "Till",
+    "@timeTo": {
+        "description": ""
+    },
+    "timesRangeInvalidMessage": "Det går inte att registrera tid över flera dagar.",
+    "@timesRangeInvalidMessage": {
+        "description": ""
+    },
+    "empty": "Rensa",
+    "@empty": {
+        "description": ""
+    },
+    "clear": "Återställ",
+    "@clear": {
+        "description": ""
+    },
+    "invoicableHours": "Fakturerbara timmar",
+    "@invoicableHours": {
+        "description": ""
+    },
+    "breakDeduction": "Rastavdrag",
+    "@breakDeduction": {
+        "description": ""
+    },
+    "breakDeductionInvalidMessage": "Rastavdrag kan inte vara längre än total arbetad tid",
+    "@breakDeductionInvalidMessage": {
+        "description": ""
+    },
+    "comment": "Kommentar",
+    "@comment": {
+        "description": ""
+    },
+    "internalComment": "Intern kommentar",
+    "@internalComment": {
+        "description": ""
+    },
+    "timeReport": "Tidrapport",
+    "@timeReport": {
+        "description": ""
+    },
+    "search": "Sök",
+    "@search": {
+        "description": ""
+    },
+    "timestamp": "Klockslag",
+    "@timestamp": {
+        "description": ""
+    },
+    "timespanMandatory": "Klockslag måste anges",
+    "@timespanMandatory": {
+        "description": ""
+    },
+    "taskMandatory": "Uppgift måste anges",
+    "@taskMandatory": {
+        "description": ""
+    },
+    "commentMandatory": "Kommentar måste anges",
+    "@commentMandatory": {
+        "description": ""
+    },
+    "internalCommentMandatory": "Intern kommentar måste anges",
+    "@internalCommentMandatory": {
+        "description": ""
+    },
+    "hereItWasEmpty": "Här var det tomt!",
+    "@hereItWasEmpty": {
+        "description": ""
+    },
+    "somethingToReport": "Något att tidrapportera idag?",
+    "@somethingToReport": {
+        "description": ""
+    },
+    "absenceHours": "Frånvarotid",
+    "@absenceHours": {
+        "description": ""
+    },
+    "dateIsLocked": "är låst",
+    "@dateIsLocked": {
+        "description": ""
+    },
+    "dateIsAttested": "är attesterat",
+    "@dateIsAttested": {
+        "description": ""
+    },
+    "articles": "Artiklar",
+    "@articles": {
+        "description": ""
+    },
+    "addArticle": "Lägg till artikel",
+    "@addArticle": {
+        "description": ""
+    },
+    "editArticle": "Redigera artikel",
+    "@editArticle": {
+        "description": ""
+    },
+    "addTextItem": "Lägg till textrad",
+    "@addTextItem": {
+        "description": ""
+    },
+    "recentlyReportedArticles": "Dina senast rapporterade",
+    "@recentlyReportedArticles": {
+        "description": ""
+    },
+    "groupOnProjects": "Gruppera på projekt",
+    "@groupOnProjects": {
+        "description": ""
+    },
+    "favorites": "Favoriter",
+    "@favorites": {
+        "description": ""
+    },
+    "searchArticle": "Sök artikel",
+    "@searchArticle": {
+        "description": ""
+    },
+    "addNewArticleItem": "Lägg till fritextartikel",
+    "@addNewArticleItem": {
+        "description": ""
+    },
+    "searchArticleRegister": "Sök i artikelregister",
+    "@searchArticleRegister": {
+        "description": ""
+    },
+    "addTag": "Lägg till etikett...",
+    "@addTag": {
+        "description": ""
+    },
+    "addTodoTitle": "Lägg till uppgiftens titel...",
+    "@addTodoTitle": {
+        "description": ""
+    },
+    "addAttachment": "Lägg till bilaga...",
+    "@addAttachment": {
+        "description": ""
+    },
+    "addMembers": "Lägg till medlemmar...",
+    "@addMembers": {
+        "description": ""
+    },
+    "addDatetime": "Lägg till datum/tid...",
+    "@addDatetime": {
+        "description": ""
+    },
+    "addConnection": "Lägg till koppling...",
+    "@addConnection": {
+        "description": ""
+    },
+    "addChecklistSubtask": "Lägg till deluppgift...",
+    "@addChecklistSubtask": {
+        "description": ""
+    },
+    "addDescription": "Lägg till beskrivning...",
+    "@addDescription": {
+        "description": ""
+    },
+    "addComment": "Lägg till kommentar...",
+    "@addComment": {
+        "description": ""
+    },
+    "confirmChecklistSubtaskRemoval": "Vill du verkligen ta bort deluppgiften?",
+    "@confirmChecklistSubtaskRemoval": {
+        "description": ""
+    },
+    "confirmChecklistRemoval": "Vill du verkligen ta bort checklistan?",
+    "@confirmChecklistRemoval": {
+        "description": ""
+    },
+    "confirmActivityCommentRemoval": "Vill du verkligen ta bort kommentaren?",
+    "@confirmActivityCommentRemoval": {
+        "description": ""
+    },
+    "checklist": "Checklista",
+    "@checklist": {
+        "description": ""
+    },
+    "checklists": "Checklistor...",
+    "@checklists": {
+        "description": ""
+    },
+    "attachFile": "Bifoga fil",
+    "@attachFile": {
+        "description": ""
+    },
+    "stop": "Slut",
+    "@stop": {
+        "description": ""
+    },
+    "start": "Start",
+    "@start": {
+        "description": ""
+    },
+    "pickTime": "Välj tid",
+    "@pickTime": {
+        "description": ""
+    },
+    "pickDate": "Välj datum",
+    "@pickDate": {
+        "description": ""
+    },
+    "members": "Medlemmar",
+    "@members": {
+        "description": ""
+    },
+    "searchMembers": "Sök bland medlemmar",
+    "@searchMembers": {
+        "description": ""
+    },
+    "tag": "Etikett",
+    "@tag": {
+        "description": ""
+    },
+    "tags": "Etiketter",
+    "@tags": {
+        "description": ""
+    },
+    "done": "Klar",
+    "@done": {
+        "description": ""
+    },
+    "revert": "Återgå",
+    "@revert": {
+        "description": ""
+    },
+    "remove": "Ta bort",
+    "@remove": {
+        "description": ""
+    },
+    "endDate": "Slutdatum",
+    "@endDate": {
+        "description": ""
+    },
+    "startDate": "Startdatum",
+    "@startDate": {
+        "description": ""
+    },
+    "showActivityDetails": "Visa detaljer",
+    "@showActivityDetails": {
+        "description": ""
+    },
+    "addDateclock": "Lägg till datum/klockslag",
+    "@addDateclock": {
+        "description": ""
+    },
+    "addEndDate": "Lägg till slutdatum",
+    "@addEndDate": {
+        "description": ""
+    },
+    "addStartDate": "Lägg till startdatum",
+    "@addStartDate": {
+        "description": ""
+    },
+    "addEndDateTime": "Lägg till slutdatum/tid",
+    "@addEndDateTime": {
+        "description": ""
+    },
+    "addStartDateTime": "Lägg till startdatum/tid",
+    "@addStartDateTime": {
+        "description": ""
+    },
+    "estimate": "Estimat",
+    "@estimate": {
+        "description": ""
+    }
+}
